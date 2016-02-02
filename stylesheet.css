@@ -1,0 +1,28 @@
+body {
+	background-color: #f0f5f5;
+}
+
+header h1 {
+	color: #20202d;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+header h2 {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+nav {
+	text-align: center;
+}
+
+nav li{
+	display: inline-block;
+}
+
+
+nav a {
+	text-decoration: none;
+	color: #20202d;
+}
